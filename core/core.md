@@ -14,4 +14,9 @@
 - 🟧 [Swift: ARC и управление памятью](https://habr.com/ru/articles/451130/)
 - 🟧 [Память в Swift от 0 до 1](https://habr.com/ru/companies/hh/articles/546856/)
 
-# 
+# Software Engineering
+- 🟢 Clean code. Robert Martin
+- 🟠 Head First Design Patterns
+- 🟠 [Паттерны с объяснениями и примерами на разных языках](https://refactoring.guru/ru/design-patterns/catalog)
+- 🟠 Паттерны
+- 🟠 [Becoming a better developer by using the SOLID design principles](https://www.youtube.com/watch?v=rtmFCcjEgEw)
