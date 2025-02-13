@@ -35,14 +35,6 @@
 - 🟠 [Accessibility Inspector](https://www.youtube.com/watch?v=EkG5_kWkqwE)
 
 
-### UI/UX
-- 🟢 [Human Interfact Guidelines](https://kindly-dugong-2a2.notion.site/Human-Interface-Guidelines-HIG-5bb542b8a11649d29f8ec670a1e210a0)
-- 🟠 [Уроки iOS Guidelines](https://www.youtube.com/playlist?
-list=PLxprOh98hm6FUdKlU6WVJRagNB5-J_54a)
-- 🔴 [Математические основы AutoLayout](https://habr.com/ru/companies/oleg-bunin/articles/437584/)
-- 🔴 [Advanced Auto Layout Toolbox](https://www.objc.io/issues/3-views/advanced-auto-layout-toolbox/)
-
-
 ### Services
 - 🟢 [Awesome iOS](https://github.com/vsouza/awesome-ios)
 - 🟢 [Image from code](https://carbon.now.sh/?bg=rgba%28171%2C+184%2C+195%2C+1%29&t=seti&wt=none&l=auto&width=680&ds=true&dsyoff=20px&dsblur=68px&wc=true&wa=true&pv=56px&ph=56px&ln=false&fl=1&fm=Hack&fs=14px&lh=133%25&si=false&es=2x&wm=false)
